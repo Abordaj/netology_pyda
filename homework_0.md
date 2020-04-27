@@ -1,1 +1,0 @@
-# netoloya_pyda
